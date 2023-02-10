@@ -462,8 +462,11 @@ nav .toggle {
   
   .right .error {
     color: #F74646;
-    font-size: 15px;
+    position: absolute;
+    font-size: 12px;
     font-weight: 700;
+    margin-top: -100px;
+    margin-left: 15px;
   }
   
   .right button {
